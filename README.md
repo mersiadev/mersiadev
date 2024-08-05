@@ -1,4 +1,4 @@
-- 👋 Merhaba, ben @mersiadev
+- 👋 Merhaba, ben @mersia
 - 👀 İlgi alanım.
 - 🌱 Discord Üzerinden Bot Yapıyorum.
 - 💞️ üzerinde işbirliği yapmayı düşünüyorum.
